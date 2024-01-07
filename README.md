@@ -9,3 +9,15 @@
 
 ### Demo video
 https://www.youtube.com/watch?v=k7JldACOfVQ
+
+### How to start
+  - Client
+    ```
+    npm i
+    npm run dev
+    ```
+  - Server
+    ```
+    npm i
+    npm run dev
+    ```
